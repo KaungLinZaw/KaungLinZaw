@@ -1,6 +1,6 @@
 - pkg update && pkg upgrade
 - pkg install git
-- https://github.com/Gybran21/Empas-Janda
+- https://github.com/KaungLinZaw/KaungLinZaw/blob/main/Hack
 - cd
 - is
 - cd Empas-Janda
