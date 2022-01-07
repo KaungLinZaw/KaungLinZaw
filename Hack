@@ -1,0 +1,9 @@
+- pkg update && pkg upgrade
+- pkg install git
+- https://github.com/Gybran21/Empas-Janda
+- cd
+- is
+- cd Empas-Janda
+- is
+- pkg install pv -y
+- bash empas.sh
